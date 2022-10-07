@@ -6,10 +6,10 @@
 <img src="https://img.shields.io/github/license/srcrs/BilibiliTask?color=ff69b4">
 <img src="https://img.shields.io/github/search/srcrs/BilibiliTask/main?color=blue">
 </div>
-111s
+
 # 简介
 
-👯✨😄📫
+👯✨📫
 
 哔哩哔哩(`B`站)自动完成每日任务，
 投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画`App`签到，大会员领取`B`币卷等。每天获得`65`点经验，助你快速升级到`Lv6`。
